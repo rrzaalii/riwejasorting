@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Rubik+Mono+One&display=swap');
+
+
+input {
+    width: auto;
+    padding: 10px;
+    border: 2px solid #5C3613;
+    background-color: #ffc894;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    box-decoration-break: 0px 0px 10px rgba(118, 118, 118, 0.2);
+  }
+
+::placeholder {
+    color: #5C3613;
+    opacity: .5;
+    font-family: "Rubik Mono One";
+}
+
+html {
+    background-color: #ffdbba;
+    text-align: center;
+    font-family: 'Bona Nova SC';
+}
+
+h1 {
+    margin-top: 70px;
+    font-size: 63px;
+    color: #5C3613;
+    font-family: 'Bona Nova SC';
+    text-shadow: 0px 0px 10px rgba(118, 118, 118, 0.2);
+
+}
+
+h2 {
+    margin-top: 5px;
+    font-size: 30px;
+    color: #5C3613;
+    font-family: "Archivo Black";
+    text-shadow: 0px 0px 10px rgba(118, 118, 118, 0.2);
+
+}
+
+
+
+button {
+    width: auto;
+    padding: 10px;
+    padding-right: 4rem;
+    padding-left: 4rem;
+    border: 2px solid #5C3613;
+    background-color: #ffc844;
+    border-radius: 8px;
+    font-family: "Rubik Mono One";
+    color: #5C3613;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 10px rgba(118, 118, 118, 0.2);
+
+}
+
+button:hover {
+    transition: 0.5s;
+    background-color: #ffb300;
+    text-shadow: 0px 0px 10px rgba(118, 118, 118, 0.5);
+
+}
+
+
+  

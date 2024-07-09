@@ -1,0 +1,60 @@
+
+html {
+    text-align: center;
+    font-family: 'Bona Nova SC';
+}
+
+h1 {
+    margin-top: 70px;
+    font-size: 65px;
+    color: #ffe600;
+    text-shadow: 0px 0px 10px rgba(118, 118, 118, 0.2);
+
+}
+
+h2 {
+    margin-top: 3px;
+    font-size: 30px;
+    color: #ffe600;
+    text-shadow: 0px 0px 10px rgba(118, 118, 118, 0.2);
+
+}
+
+p {
+    margin-top: 5px;
+    font-size: 20px;
+    color: #ffe600;
+    text-shadow: 0px 0px 10px rgba(118, 118, 118, 0.2);
+    font-family: "Archivo Black";
+}  
+
+h3 {
+    margin-top: 1px;
+    color: azure;
+    font-size: 60px;
+    text-shadow: 0px 0px 10px rgba(118, 118, 118, 0.2);
+}
+
+#rama {
+    background-color: #972e1e;
+}
+
+#sinta {
+    background-color: #cd6351;
+}
+
+#antareja {
+    background-color: #679d8f;
+}
+
+#srikandi {
+    background-color: #806ca5;
+}
+
+#bisma {
+    background-color: #bfab00;
+}
+
+#kresna {
+    background-color: #c75f85;
+}
